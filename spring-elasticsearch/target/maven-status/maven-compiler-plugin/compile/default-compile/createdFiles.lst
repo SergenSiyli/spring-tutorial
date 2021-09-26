@@ -1,0 +1,7 @@
+com\dto\LogDto.class
+com\controller\LogController.class
+com\service\ILogService.class
+com\ElasticSearchApplication.class
+com\service\LogService.class
+com\entity\LogEntitiy.class
+com\repository\ILogRepository.class

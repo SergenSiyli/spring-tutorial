@@ -1,0 +1,1 @@
+docker-compose -f C:\Users\mrengineer\IntelliJ-Projects\spring-tutorial\spring-elasticsearch\src\main\resources\docker-compose.yml up -d
