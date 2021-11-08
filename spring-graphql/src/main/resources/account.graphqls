@@ -1,0 +1,23 @@
+type Account {
+    id: ID!,
+    customerNo: String!,
+    name: String,
+    surname: String,
+    nationalityNumber: String
+}
+
+input AccountDto {
+    customerNo: String!,
+    name: String!,
+    surname: String,
+    surname: String
+}
+
+type Query {
+    getAccounts(type: String):[Account]
+    getById(id: ID):Account
+}
+
+type Mutation {
+    createAccount(account: AccountDto):Account
+}
