@@ -1,1 +1,0 @@
-docker-compose -f C:\Users\mrengineer\IntelliJ-Projects\spring-tutorial\spring-mongo-rest-api\src\main\resources\docker-compose.yml up -d
