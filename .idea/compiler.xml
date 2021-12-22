@@ -12,11 +12,13 @@
         <module name="spring-swagger" />
         <module name="spring-aspect-oriented-programming" />
         <module name="spring-graphql" />
+        <module name="spring-rest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-jpa-swagger" target="15" />
       <module name="spring-rabbitmq-jpa-swagger" target="13" />
+      <module name="spring-rest-client" target="15" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -26,6 +28,7 @@
       <module name="spring-graphql" options="-parameters" />
       <module name="spring-mongo-rest-api" options="-parameters" />
       <module name="spring-rabbitmq-jpa-swagger" options="-parameters" />
+      <module name="spring-rest" options="-parameters" />
       <module name="spring-swagger" options="-parameters" />
     </option>
   </component>
