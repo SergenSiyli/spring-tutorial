@@ -18,12 +18,262 @@
             <set />
           </value>
         </entry>
-        <entry key="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.3.10/spring-aop-5.3.10.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
+        <entry key="$PROJECT_DIR$/../getirProject/README.md">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http">
+        <entry key="$PROJECT_DIR$/../getirProject/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/GetirApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/configuration/AuthenticationEntryPoint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/configuration/GeneralAuthenticationEntryPoint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/configuration/JwtRequestFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/configuration/RequestFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/configuration/SwaggerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/configuration/WebSecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/controller/BookController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/controller/CustomerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/controller/DirektAuthenticationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/controller/OrderController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/controller/StatisticsController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/dto/BookDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/dto/CustomerDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/dto/CustomerOrderDetailDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/dto/OrderDetailDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/dto/OrderDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/dto/StatisticsDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/entity/BookEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/entity/CustomerEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/entity/CustomerOrderDetailEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/entity/OrderDetailEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/entity/OrderEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/exception/ErrorCodeEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/exception/GetirException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/exception/GlobalExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/model/OrderModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/repository/IBookRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/repository/ICustomerRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/repository/IOrderDetailRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/repository/IOrderRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/service/BookService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/service/CustomerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/service/GeneralUserDetailsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/service/IBookService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/service/IOrderDetailService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/service/IOrderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/service/OrderDetailService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/service/OrderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/service/UserDetailsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/service/interfaces/IBookService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/service/interfaces/ICustomerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/service/interfaces/IOrderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/viewmodels/request/CreateOrderRequestViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/java/com/viewmodels/response/CreateOrderResponseViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/test/java/BookServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/test/java/CustomerServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/test/java/OrderServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../getirProject/src/test/java/utils/Util.java">
           <value>
             <set />
           </value>
@@ -273,6 +523,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/spring-rediscache/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-rediscache/src/main/java/com/RedisCacheApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-rediscache/src/main/java/com/config/AppConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-rediscache/src/main/java/com/controller/RedisCacheController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-rediscache/src/main/java/com/service/RedisCacheService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-rediscache/src/main/java/com/src/RedisCacheApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-rest-client/pom.xml">
           <value>
             <set />
@@ -374,6 +654,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/spring-swagger/src/main/resources/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.3.10/spring-aop-5.3.10.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http">
           <value>
             <set />
           </value>

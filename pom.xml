@@ -15,6 +15,9 @@
         <module>spring-aspect-oriented-programming</module>
         <module>spring-graphql</module>
         <module>spring-rest</module>
+        <module>spring-rediscache</module>
+        <module>spring-websocketchat</module>
+        <module>spring-page-pagination</module>
     </modules>
 
     <properties>
